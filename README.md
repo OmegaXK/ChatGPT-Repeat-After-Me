@@ -4,7 +4,7 @@ This is the best ChatGPT repeat after me bot. With this bot, ChatGPT will repeat
 
 # How to Use
 
-1. Highlight the repeat bot prompt from the README below, or from the Repeat Bot Prompt text file.
+1. Highlight the repeat bot prompt below, or from the Repeat Bot Prompt text file.
 2. Copy it using control-C (command-C on Mac).
 3. Open up ChatGPT and start a new chat.
 4. Paste the prompt into ChatGPT using control-V, (command-V on Mac).
